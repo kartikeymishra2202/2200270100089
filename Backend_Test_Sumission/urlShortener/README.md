@@ -38,4 +38,6 @@ Returns usage stats:
 }
 
 <img width="1356" height="778" alt="image" src="https://github.com/user-attachments/assets/effec822-80fe-4cb9-a516-c161de54a57b" />
+<img width="1435" height="848" alt="image" src="https://github.com/user-attachments/assets/c25fd8db-da5a-454c-949b-ef0fb8afc755" />
+<img width="1410" height="837" alt="image" src="https://github.com/user-attachments/assets/9b8a8bda-994c-4aeb-a4cd-1f9538ca07f8" />
 
